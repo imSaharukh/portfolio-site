@@ -25,9 +25,9 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     - run: npm i
-    - name: Lint
-    #   run: npm run lint
-    # - name: Build and Statically Render
+    # - name: Lint
+    # #   run: npm run lint
+    - name: Build and Statically Render
       run: npm run predeploy
       env:
         NODE_ENV: development
