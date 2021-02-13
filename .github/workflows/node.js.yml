@@ -24,10 +24,10 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
-    - run: npm ci
+    - run: npm i
     - name: Lint
-      run: npm run lint
-    - name: Build and Statically Render
+    #   run: npm run lint
+    # - name: Build and Statically Render
       run: npm run predeploy
       env:
         NODE_ENV: development
