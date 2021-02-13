@@ -1,15 +1,15 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'American International University-Bangladesh (AIUB)',
+    degree: 'Bachelor of Science in Computer Science & Engineering',
+    link: 'https://aiub.edu',
+    year: '2019 - running',
   },
   {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'Birshreshtha Munshi Abdur Rouf Public College',
+    degree: 'HSC',
+    link: 'https://www.abdurroufcollege.ac.bd/',
+    year: 2016,
   },
 ];
 
