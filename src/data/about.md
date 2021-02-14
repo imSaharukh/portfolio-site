@@ -37,17 +37,13 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 - [Good design](/)
 - [Photography](https://instagram.com/dangelosaurus)
 
-<!-- # Travel / Geography
+# Travel / Geography
 
-- I am from originally from Buffalo, New York. I have since lived in Palo Alto, Mountain View, San Francisco, Seattle, and New York.
-- I've been to ~ 50 countries, some of which I have forgotten, and many of which I would like to revisit.
-- In 2016, I visited: Canada, Ethiopia, Austria, Germany, Belgium, Ireland, Northern Ireland, Italy, Romania, Sweden, Norway, Svalbard, Panama, Costa Rica, Uganda, Japan, and the UAE, mostly in that order.
-- In 2017, I visited: Canada, Japan, Denmark, Germany, Sweden, Estonia, Russia, the Netherlands, Belgium, the U.K., Spain, Iceland, France, Switzerland, Ethiopia, and Luxembourg.
-- In 2018, I visited: Canada, France, Italy, Israel, and the U.K.
-- In 2019, I visited: Canada, England, France, and Switzerland.
-- In 2020, I barely traveled 20 blocks. I stayed in New York and remodeled an apartment.
-- In 2021, I hope to start traveling again.
-- I am an Oregon Trail II enthusiast. -->
+- I am from originally from Panchagarh, Rangpur, Bangaldesh.
+- I've been to 4 countries.
+- In 2008, I visited: India , Nepal and Bhutan
+- In 2017, I visited: revisit Indea.
+- In 2021, I hope to start traveling again and visit Keokradong(3rd higest Peak in Bangladesh)
 
 # Fun facts
 
