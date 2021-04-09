@@ -3,7 +3,7 @@
 const data = [
   {
     title: 'Cookspace Mobile App',
-    subtitle: '2015 BVP Hackathon',
+    subtitle: 'Food Ordaring app',
     image: '/images/projects/cookspaceApp.png',
     link: 'https://cookspace.co/app',
     date: '2020-11-20',
