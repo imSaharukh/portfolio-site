@@ -19,7 +19,7 @@ const data = [
     subtitle: 'A e-commerce app with all modern features',
     link: 'https://play.google.com/store/apps/details?id=com.delord.delordshop',
     image: '/images/projects/delord.png',
-    date: '2015-09-20',
+    date: '2019-09-20',
     desc:
       'This was made for a client whos form Doha Qatar',
   },
