@@ -8,22 +8,20 @@ const data = [
     link: 'https://cookspace.co/app',
     date: '2020-11-20',
     desc:
-      'Built for Cookspace , this a food ordering production mobile app . includes '
+      'Built for Cookspace , this a food ordering production mobile app(Android & iOS) . includes '
       + 'API, '
       + 'Payment Gateway, '
       + 'realtime web socket, '
       + 'Push Notification ',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
+    title: 'Delord Shop',
+    subtitle: 'A e-commerce app with all modern features',
+    link: 'https://play.google.com/store/apps/details?id=com.delord.delordshop',
+    image: '/images/projects/delord.png',
     date: '2015-09-20',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'This was made for a client whos form Doha Qatar',
   },
   {
     title: 'Space Potato',
