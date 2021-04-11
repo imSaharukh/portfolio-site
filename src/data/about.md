@@ -20,7 +20,7 @@ I'm learing design patterns , DevOps , System Design, Backend Development and so
 
 - At 16, I built my first website with Microsoft FrontPage on our Pentium III [Gateway](https://en.wikipedia.org/wiki/Gateway,_Inc.). My website was terrible.
 
-- At 18, In the summer before University, I finally start writng code with Python.
+- At 18, In the summer before University,to be exact March 30th 2019, I finally start writng code with Python.
 
 
 Ask me in person for other stories that I'm afraid to share with the internet.

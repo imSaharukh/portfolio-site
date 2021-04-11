@@ -7,7 +7,7 @@ const positions = [
     daterange: 'July 2020 - Present',
     points: [
       'Devlopented the most beautiful app in Bangladesh',
-      'Built production, on-line, end-to-end optimized hybrid mobile app with Flutter',
+      'Built production, on-line, end-to-end optimized hybrid mobile and Desktop app with Flutter',
       // 'Designed micro-service architecture around: data collection, data integrity, feature engineering, research, strategy, backtesting, deployment, and reporting.',
       // 'YC Alumn. Worked on everything. Built a 16-person team. Operated company for 6+ years.',
     ],
