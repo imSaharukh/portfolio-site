@@ -22,6 +22,8 @@ I'm learing design patterns , DevOps , System Design, Backend Development and so
 
 - At 18, In the summer before University,to be exact March 30th 2019, I finally start writng code with Python.
 
+- September 9th 2019, I heard about [Flutter](https:flutter.dev)
+
 
 Ask me in person for other stories that I'm afraid to share with the internet.
 
