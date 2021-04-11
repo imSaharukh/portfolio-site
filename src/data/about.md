@@ -24,6 +24,8 @@ I'm learing design patterns , DevOps , System Design, Backend Development and so
 
 - September 9th 2019, I heard about [Flutter](https:flutter.dev)
 
+- July 1st 2020, On my birthday I got my first job as a Flutter Developer
+
 
 Ask me in person for other stories that I'm afraid to share with the internet.
 
