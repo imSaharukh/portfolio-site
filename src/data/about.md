@@ -52,7 +52,6 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 - I have just watched 5-7 movies and two Web series in my whole life.
 - I almost always have a sketchbook with me and a [01 Sakura Pigma Micron Pen](https://www.sakuraofamerica.com/product/pigma-micron/).
 - I can't locate every country on a map.
-- I operate a [small angel fund](http://skepticalinvestments.biz/) with terrible returns.
 - I added this page because so many people complained that my site was just my resume.
 
 # I dream of
