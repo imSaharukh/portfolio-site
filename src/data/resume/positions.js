@@ -1,10 +1,22 @@
 /* eslint-disable max-len */
 const positions = [
+
+  {
+    company: 'Munchies',
+    position: 'Software Engineer',
+    link: 'http://munchies.com.bd/',
+    daterange: 'Junury 2022 - Present',
+    points: [
+      'Built production, on-line, end-to-end optimized hybrid mobile Flutter',
+      'Designed micro-service architecture around: data collection, data integrity, feature engineering, research, strategy, backtesting, deployment, and reporting.',
+      // 'YC Alumn. Worked on everything. Built a 16-person team. Operated company for 6+ years.',
+    ],
+  },
   {
     company: 'Cookspace',
     position: 'Mobile Application Developer',
     link: 'http://cookspace.co/',
-    daterange: 'July 2020 - Present',
+    daterange: 'July 2020 - January 2022',
     points: [
       'Devlopented the most beautiful app in Bangladesh',
       'Built production, on-line, end-to-end optimized hybrid mobile and Desktop app with Flutter',
@@ -12,6 +24,7 @@ const positions = [
       // 'YC Alumn. Worked on everything. Built a 16-person team. Operated company for 6+ years.',
     ],
   },
+
   // {
   //   company: 'Skeptical Investments',
   //   position: 'Co-founder',

@@ -1,7 +1,7 @@
 
 # Intro
 
-I am a entrepreneur enthusiast. Currently working as a mobile application developer @ [cookspace](https://cookspace.co) where I build hybrid mobile application with [Flutter](https://flutter.dev) and at scale. I am particularly interested in projects that touch health and safety, imaging, social impact, and aerospace. If you think I can be helpful to you or would like to meet me, please feel free to get in touch.
+I am a entrepreneur enthusiast. Currently working as a mobile application developer @ [Munchies](https://munchies.com.bd) where I'm building hybrid mobile application with [Flutter](https://flutter.dev) and backend with [NodeJS(Typescript)](https://nodejs.org/en/) and at scale. I am particularly interested in projects that touch health and safety, imaging, social impact, and aerospace. If you think I can be helpful to you or would like to meet me, please feel free to get in touch.
 
 # Currently
 
@@ -22,9 +22,11 @@ I'm learing design patterns , DevOps , System Design, Backend Development and so
 
 - At 18, In the summer before University,to be exact March 30th 2019, I finally start writng code with Python.
 
-- September 9th 2019, I heard about [Flutter](https:flutter.dev)
+- September 9th 2019, I heard about [Flutter](https://flutter.dev)
 
 - July 1st 2020, On my birthday I got my first job as a Flutter Developer
+
+- 7 Junuary 2022, joined [Munchies](https://munchies.com.bd) as a Software Engineer (FullStack)
 
 
 Ask me in person for other stories that I'm afraid to share with the internet.
