@@ -17,7 +17,7 @@ const positions = [
   {
     company: 'Cookspace',
     position: 'SOFTWARE ENGINEER (PART-TIME, REMOTE)',
-    link: 'https://cookspace.co/',
+    link: 'https://play.google.com/store/apps/details?id=co.cookspace.user&hl=en',
     daterange: 'July 2020 - January 2022',
     points: [
       "Contributed to Flutter Mobile App Development for Customer and Deliveryman applications.",

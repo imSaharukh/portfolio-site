@@ -27,11 +27,11 @@ const skills = [
     competency: 4,
     category: ['Web Development', 'Tools'],
   },
-  {
-    title: 'Heroku',
-    competency: 2,
-    category: ['Web Development', 'Tools'],
-  },
+  // {
+  //   title: 'Heroku',
+  //   competency: 2,
+  //   category: ['Web Development', 'Tools'],
+  // },
   {
     title: 'MongoDB',
     competency: 5,
@@ -45,7 +45,7 @@ const skills = [
   {
     title: 'Flutter',
     competency: 5,
-    category: ['Mobile'],
+    category: ['Mobile','Android','iOS'],
   },
   {
     title: 'Redis',
@@ -113,7 +113,7 @@ const skills = [
     category: ['Web Development', 'Languages', 'Javascript'],
   },
   {
-    title: 'HTML + SASS/SCSS/CSS',
+    title: 'HTML + CSS',
     competency: 2,
     category: ['Web Development', 'Languages'],
   },

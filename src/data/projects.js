@@ -32,7 +32,7 @@ const data = [
     title: 'Cookspace Mobile App',
     subtitle: 'Food Ordaring app',
     image: '/images/projects/cookspaceApp.png',
-    link: 'https://cookspace.co/app',
+    link: 'https://play.google.com/store/apps/details?id=co.cookspace.user&hl=en',
     date: '2021',
     desc:
       'Built for Cookspace , this a food ordering production mobile app(Android & iOS) . includes '
