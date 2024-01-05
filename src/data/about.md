@@ -1,17 +1,19 @@
 
 # Intro
 
-I am an entrepreneurial enthusiast currently working as a **Mobile Application Developer** at [Munchies](https://munchies.com.bd), where I specialize in building hybrid mobile applications with [Flutter](https://flutter.dev) and backend development using [NodeJS (Typescript)](https://nodejs.org/en/) at scale.
+# Bio
 
-### Technical Expertise:
-- **Mobile Development:** Flutter
-- **Backend Development:** NodeJS (Typescript)
+Experienced **Lead Software Engineer** with over 3 years of expertise, recently contributing at Munchies Deliveries Limited. Demonstrated leadership, spearheading the implementation of Microservices architecture for a platform with 70k+ users and 300+ restaurants. Proficient in Flutter maintenance, optimizing legacy APIs, and overseeing a dynamic full-stack team of 5 engineers.
 
-My professional journey is driven by a passion for projects that make a meaningful impact, particularly those related to health and safety, imaging, social impact, and aerospace.
+### Education:
+- **Master of Computing** (Ongoing)  
+  *Curtin University*
 
-If you believe my skills and expertise align with your project or if you simply want to connect and explore potential collaborations, please don't hesitate to get in touch. I am open to discussions and excited about the possibility of making a positive impact together.
 
-Feel free to reach out! 🚀
+Currently pursuing a Master of Computing at Curtin University, I am enthusiastic about impactful projects in health, safety, imaging, social impact, and aerospace. Open to new opportunities and eager to explore potential collaborations.
+
+Feel free to connect! 🚀
+
 
 
 # Currently
