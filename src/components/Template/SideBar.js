@@ -19,8 +19,7 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>3+ Years Expertise as Software Engineer | 💻 Backend Alchemist & Flutter Maestro | Architecting Robust Systems, Optimizing Processes | 📱 Cross-Platform Mobile Guru | 🚀 Tech Impact Enthusiast
-      </p>
+      <p>With 3+ years as a Software Engineer, I specialize in backend alchemy and Flutter mastery. I excel in architecting robust systems, optimizing processes, and crafting cross-platform mobile solutions. As a tech enthusiast, I'm passionate about making a meaningful impact through innovative projects.</p>
       <ul className="actions">
         <li>
           {!window.location.pathname.includes('/resume') ? <Link to="/resume" className="button">Learn More</Link> : <Link to="/about" className="button">About Me</Link>}
