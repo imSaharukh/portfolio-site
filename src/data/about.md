@@ -1,7 +1,18 @@
 
 # Intro
 
-I am a entrepreneur enthusiast. Currently working as a mobile application developer @ [Munchies](https://munchies.com.bd) where I'm building hybrid mobile application with [Flutter](https://flutter.dev) and backend with [NodeJS(Typescript)](https://nodejs.org/en/) and at scale. I am particularly interested in projects that touch health and safety, imaging, social impact, and aerospace. If you think I can be helpful to you or would like to meet me, please feel free to get in touch.
+I am an entrepreneurial enthusiast currently working as a **Mobile Application Developer** at [Munchies](https://munchies.com.bd), where I specialize in building hybrid mobile applications with [Flutter](https://flutter.dev) and backend development using [NodeJS (Typescript)](https://nodejs.org/en/) at scale.
+
+### Technical Expertise:
+- **Mobile Development:** Flutter
+- **Backend Development:** NodeJS (Typescript)
+
+My professional journey is driven by a passion for projects that make a meaningful impact, particularly those related to health and safety, imaging, social impact, and aerospace.
+
+If you believe my skills and expertise align with your project or if you simply want to connect and explore potential collaborations, please don't hesitate to get in touch. I am open to discussions and excited about the possibility of making a positive impact together.
+
+Feel free to reach out! 🚀
+
 
 # Currently
 
@@ -48,7 +59,7 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 - I am from originally from Panchagarh, Rangpur, Bangaldesh.
 - I've been to 4 countries.
 - In 2008, I visited: India , Nepal and Bhutan
-- In 2017, I visited: revisit Indea.
+- In 2017, I visited: revisit India.
 - In 2021, I hope to start traveling again and visit Keokradong(3rd higest Peak in Bangladesh)
 
 # Fun facts
