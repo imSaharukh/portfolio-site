@@ -19,15 +19,7 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Saharukh. I like building things.
-        I am a <a href="http://cs.aiub.edu/">Computer Science and Engineering</a> student, and
-        Software Engineer @ <a href="https://munchies.com.bd/">Munchies</a>.
-        Before Munchies I was
-        at <a href="https://cookspace.co/">Cookspace</a>
-        {/* , <a href="https://planet.com">Planet</a>
-        , <a href="https://planetaryresources.com">Planetary Resources</a>
-        , <a href="https://facebook.com">Facebook</a>
-        , and <a href="https://seds.org">SEDS</a>. */}
+      <p>3+ Years Expertise as Software Engineer | 💻 Backend Alchemist & Flutter Maestro | Architecting Robust Systems, Optimizing Processes | 📱 Cross-Platform Mobile Guru | 🚀 Tech Impact Enthusiast
       </p>
       <ul className="actions">
         <li>
