@@ -2,27 +2,30 @@
 const positions = [
 
   {
-    company: 'Munchies',
-    position: 'Software Engineer',
-    link: 'http://munchies.com.bd/',
-    daterange: 'Junury 2022 - Present',
+    company: 'MUNCHIES DELIVERIES LIMITED',
+    position: 'Lead Software Engineer',
+    link: 'https://munchies.com.bd/',
+    daterange: 'Junury 2022 - Jan 2024',
     points: [
-      'Built production, on-line, end-to-end optimized hybrid mobile Flutter',
-      'Designed micro-service architecture around: data collection, data integrity, feature engineering, research, strategy, backtesting, deployment, and reporting.',
-      // 'YC Alumn. Worked on everything. Built a 16-person team. Operated company for 6+ years.',
+      'Elevated to Lead Software Engineer in February 2023, showcasing effective leadership within the engineering team.',
+      'Led the implementation of Microservices architecture using JavaScript/TypeScript, enhancing scalability for a platform with 70k+ users and 300+ restaurants.',
+      'Managed maintenance for three Flutter applications, ensuring optimal performance for a diverse user base.',
+      'Spearheaded the optimization of legacy APIs, resulting in a significant reduction in response times for improved user experience.',
+      'Oversaw a full-stack development team of 5 engineers, ensuring streamlined operations and successful project outcomes.'
     ],
   },
   {
     company: 'Cookspace',
-    position: 'Mobile Application Developer',
-    link: 'http://cookspace.co/',
+    position: 'SOFTWARE ENGINEER (PART-TIME, REMOTE)',
+    link: 'https://cookspace.co/',
     daterange: 'July 2020 - January 2022',
     points: [
-      'Devlopented the most beautiful app in Bangladesh',
-      'Built production, on-line, end-to-end optimized hybrid mobile and Desktop app with Flutter',
-      // 'Designed micro-service architecture around: data collection, data integrity, feature engineering, research, strategy, backtesting, deployment, and reporting.',
-      // 'YC Alumn. Worked on everything. Built a 16-person team. Operated company for 6+ years.',
-    ],
+      "Contributed to Flutter Mobile App Development for Customer and Deliveryman applications.",
+      "Led versatile Flutter Desktop POS System development for cross-platform use.",
+      "Implemented performance optimization and maintained clear code architecture.",
+      "Played a pivotal role in Flutter Mobile App Development, ensuring a seamless user experience, and participating in NestJS API Development and Database Design."
+    ]
+    ,
   },
 
   // {
