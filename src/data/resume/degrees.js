@@ -9,7 +9,7 @@ const degrees = [
     school: 'American International University-Bangladesh (AIUB)',
     degree: 'Bachelor of Science in Computer Science & Engineering',
     link: 'https://aiub.edu',
-    year: '2019 - 2024',
+    year: '2019 - 2023',
   },
   {
     school: 'Birshreshtha Munshi Abdur Rouf Public College',
