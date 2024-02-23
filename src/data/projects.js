@@ -18,7 +18,7 @@ const data = [
   {
     title: 'Wifi Security App',
     subtitle: 'Securing Internet Connections on Mobile Devices',
-    image: 'https://wifisecurityapp.com/wp-content/uploads/2023/12/Apple-iPhone-11-Pro-Max-Screenshot-1.png',
+    image: '/images/projects/vpn.png',
     link: 'https://wifisecurityapp.com/',
     date: '2023',
     desc:
@@ -44,7 +44,7 @@ const data = [
   {
     title: 'ChatOut',
     subtitle: 'Transforming User Experience and Streamlining Operations Tech Stack',
-    image: 'https://play-lh.googleusercontent.com/i250qqA71R05gwFNGIubVoUlp9tFqTYzF2Fm11ua8j76JvxX3A-C6k8Y_TtKkGWU2gQ=w5120-h2880-rw',
+    image: '/images/projects/chat.png',
     link: 'https://play.google.com/store/apps/details?id=co.chatout.merchantApp',
     date: '2022',
     desc:
