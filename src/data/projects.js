@@ -6,7 +6,7 @@ const data = [
     subtitle: 'Lead Software Engineer for Full System Development',
     image: '/images/projects/munchies.png',
     link: 'https://munchies.com.bd/',
-    date: '2023-2024',
+    date: '2022-2024',
     desc:
       'Led the development of Munchies, a comprehensive food tech platform including 3 mobile apps (User, Rider, Restaurant), a user website, and an admin panel. Built with Flutter for mobile apps, React and Next.js for frontend, and Node.js (Express and NestJS) for backend, featuring 4 microservices. Orchestrated system architecture, team collaboration, and efficient implementation to scale for 70k+ users and 300+ restaurants.'
       + 'Frontend: Flutter, React, Next.js, '
@@ -15,6 +15,20 @@ const data = [
       + 'Scalable Infrastructure Design, '
       + 'Team Leadership and Collaboration',
   },
+  {
+    title: 'Wifi Security App',
+    subtitle: 'Securing Internet Connections on Mobile Devices',
+    image: 'https://wifisecurityapp.com/wp-content/uploads/2023/12/Apple-iPhone-11-Pro-Max-Screenshot-1.png',
+    link: 'https://wifisecurityapp.com/',
+    date: '2023',
+    desc:
+      'Developed a VPN app using Flutter for both Android and iOS platforms. Leveraged Android\'s and iOS\'s native VPN APIs to provide secure internet connections on mobile devices. Designed an intuitive user interface and implemented features for seamless VPN usage.'
+      + 'Frontend: Flutter (Dart), '
+      + 'Native VPN APIs (Android, iOS), '
+      + 'Secure Connection Protocols, '
+      + 'Intuitive User Interface',
+  }
+,  
   {
     title: 'Examiner App Development',
     subtitle: 'Revolutionizing Exam Preparation',
