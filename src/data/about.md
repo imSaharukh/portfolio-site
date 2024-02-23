@@ -3,7 +3,7 @@
 
 # Bio
 
-Experienced **Lead Software Engineer** with over 3 years of expertise, recently contributing at Munchies Deliveries Limited. Demonstrated leadership, spearheading the implementation of Microservices architecture for a platform with 70k+ users and 300+ restaurants. Proficient in Flutter maintenance, optimizing legacy APIs, and overseeing a dynamic full-stack team of 5 engineers.
+Experienced *** Software Engineer *** with over 3 years of expertise, recently contributing at Munchies Deliveries Limited. Demonstrated leadership by spearheading the implementation of a Microservices architecture for a platform serving 70k+ users and 300+ restaurants. Proficient in Flutter maintenance, optimizing legacy APIs, and currently transitioning into a role as a Technical Advisor as I pursue my Master's degree in Perth starting February 2024. I am grateful for the opportunity to continue supporting Munchies in an advisory capacity, bringing my experience to guide the team toward ongoing success.
 
 ### Education:
 - **Master of Computing** (Ongoing)  
@@ -22,24 +22,27 @@ I'm learing design patterns , DevOps , System Design, Backend Development and so
 
 # Some history
 
-- My parents put a computer in my bedroom in 2003 when I was 3. It was an old Tandy that ran MS-DOS. My favorite games were Road Rash,The House of the Dead 2, Wolfenstein 3D, and GTA: Vice City. It had a mechanical keyboard and a turbo button. To this day, I still don't know what pressing the turbo button really did.
+- My parents put a computer in my bedroom in 2003 when I was 3. It was an old Tandy that ran MS-DOS. My favorite games were Road Rash, The House of the Dead 2, Wolfenstein 3D, and GTA: Vice City. It had a mechanical keyboard and a turbo button. To this day, I still don't know what pressing the turbo button really did.
 
-- I still remember installing it from a floppy disk onto our brand new PC. It took years for me to send my first email.
-
+- I still remember installing software from floppy disks onto our brand new PC. It took years for me to send my first email.
 
 - At 7, I discovered the mini-games hidden in Microsoft Office. I also beat Minesweeper on expert for the first time.
 
-- At 8, my parents bought me a Sony digital camera after I stole their SLR one too many times. It could fit 10 images to a floppy disk at a 0.3MP resolution. I still have it and it still works. I've been taking photographs ever since.
+- At 8, my parents bought me a Sony digital camera after I stole their SLR one too many times. It could fit 10 images to a floppy disk at a 0.3MP resolution. I still have it, and it still works. I've been taking photographs ever since.
 
 - At 16, I built my first website with Microsoft FrontPage on our Pentium III [Gateway](https://en.wikipedia.org/wiki/Gateway,_Inc.). My website was terrible.
 
-- At 18, In the summer before University,to be exact March 30th 2019, I finally start writng code with Python.
+- At 18, in the summer before University, on March 30th, 2019, I began writing code with Python.
 
-- September 9th 2019, I heard about [Flutter](https://flutter.dev)
+- On September 9th, 2019, I first heard about [Flutter](https://flutter.dev).
 
-- July 1st 2020, On my birthday I got my first job as a Flutter Developer
+- On July 1st, 2020, my birthday, I landed my first job as a Software Engineer.
 
-- 7 Junuary 2022, joined [Munchies](https://munchies.com.bd) as a Software Engineer (FullStack)
+- On January 7th, 2022, I joined [Munchies](https://munchies.com.bd) as a Software Engineer (FullStack).
+
+- In February 2023, I was promoted to Lead Software Engineer at Munchies.
+
+- In February 2024, I moved to Perth, WA, to pursue my Master of Computing at Curtin University.
 
 
 Ask me in person for other stories that I'm afraid to share with the internet.
@@ -58,11 +61,13 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 
 # Travel / Geography
 
-- I am from originally from Panchagarh, Rangpur, Bangaldesh.
-- I've been to 4 countries.
-- In 2008, I visited: India , Nepal and Bhutan
-- In 2017, I visited: revisit India.
-- In 2021, I hope to start traveling again and visit Keokradong(3rd higest Peak in Bangladesh)
+- Originally from Panchagarh, Rangpur, Bangladesh.
+- I've been to 5 countries.
+- In 2008, I visited: India, Nepal, and Bhutan.
+- In 2017, I revisited India.
+- In 2021, I hoped to start traveling again and visit Keokradong (3rd highest Peak in Bangladesh).
+- In February 2024, I traveled to Malaysia.
+- Currently residing in Perth, WA.
 
 # Fun facts
 
@@ -73,7 +78,7 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 
 # I dream of
 
-- I want to retired before 30
+- I want to retired before 40
 - always finding inspiration.
 - enabling a brighter future.
 - doing better.

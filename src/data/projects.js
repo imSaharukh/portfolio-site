@@ -2,6 +2,20 @@
 
 const data = [
   {
+    title: 'Munchies Food Tech Platform',
+    subtitle: 'Lead Software Engineer for Full System Development',
+    image: '/images/projects/munchies.png',
+    link: 'https://munchies.com.bd/',
+    date: '2023-2024',
+    desc:
+      'Led the development of Munchies, a comprehensive food tech platform including 3 mobile apps (User, Rider, Restaurant), a user website, and an admin panel. Built with Flutter for mobile apps, React and Next.js for frontend, and Node.js (Express and NestJS) for backend, featuring 4 microservices. Orchestrated system architecture, team collaboration, and efficient implementation to scale for 70k+ users and 300+ restaurants.'
+      + 'Frontend: Flutter, React, Next.js, '
+      + 'Backend: Node.js (Express, NestJS), '
+      + 'Microservices Architecture, '
+      + 'Scalable Infrastructure Design, '
+      + 'Team Leadership and Collaboration',
+  },
+  {
     title: 'Examiner App Development',
     subtitle: 'Revolutionizing Exam Preparation',
     image: '/images/projects/xm.png',
@@ -50,17 +64,6 @@ const data = [
     desc:
       'This was made for a client whos form Doha Qatar',
   },
-  // {
-  //   title: 'Space Potato',
-  //   subtitle: 'A kickstarter funded potato powered weather balloon.',
-  //   link: 'http://www.spacepotato.org',
-  //   image: '/images/projects/spacepotato.jpg',
-  //   date: '2015-06-28',
-  //   desc:
-  //     'Launched a potato battery powered weather balloon with two cameras '
-  //     + 'and gps transponder. Resulting photos were published in a coffee table book. '
-  //     + 'You can email me for a copy.',
-  // },
   {
     title: 'Cat Detector',
     subtitle: 'A convolutional neural network to classify cats! (and dogs)',

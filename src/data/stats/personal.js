@@ -27,14 +27,14 @@ const data = [
   {
     key: 'countries',
     label: 'Countries visited',
-    value: 4,
-    link:
-      'https://www.google.com/maps/d/embed?mid=1iBBTscqateQ93pWFVfHCUZXoDu8&z=2',
+    value: 6,
+    // link:
+    //   'https://www.google.com/maps/d/embed?mid=1iBBTscqateQ93pWFVfHCUZXoDu8&z=2',
   },
   {
     key: 'location',
     label: 'Current city',
-    value: 'Dhaka, Bangladesh',
+    value: 'Perth, Australia',
   },
 ];
 
